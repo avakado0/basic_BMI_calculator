@@ -1,0 +1,2 @@
+name_of_input_file = input.json
+create_new_outputs_in_every_run = true
